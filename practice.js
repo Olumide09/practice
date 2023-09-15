@@ -5,3 +5,9 @@ if (num < 100) {
 } else {
     console.log('big number')
 }
+
+if (num % 2 === 0 && num % 5 === 0) {
+    console.log('this is a cool number')
+} else {
+    console.log('this is a boring number')
+}
