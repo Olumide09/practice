@@ -11,3 +11,5 @@ if (num % 2 === 0 && num % 5 === 0) {
 } else {
     console.log('this is a boring number')
 }
+
+console.log(-17 % 5);
